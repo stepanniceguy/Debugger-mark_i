@@ -1,0 +1,44 @@
+Altium Designer Pick and Place Locations
+C:\Users\TUF\Desktop\programmer i\Programmer\Project Outputs for Programmer\Pick Place\Pick Place for debugger.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09.03.26
+Time:       18:53
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer    Footprint               Center-X(mil) Center-Y(mil) Rotation Description                                                                                       
+X1         TYPE-C             TopLayer HRO_TYPE-C-31-M-12      6834.705      1300.000      90       "USB Connectors 24 Receptacle 1 8.94*7.3mm RoHS"                                                  
+Y1         NX3225GD           TopLayer NX3225GD                5530.004      1610.002      0        "Crystal Oscillator"                                                                              
+TARGET     TARGET_PROG        TopLayer PLS-5-2                 5942.520      1115.000      90       "Header, 5-Pin"                                                                                   
+UART       UART               TopLayer PLS-3-2                 5601.260      1115.000      90       "Header, 3-Pin"                                                                                   
+SELF       SELFPROG           TopLayer PLS-5-2                 5880.000      1910.000      90       "Header, 5-Pin"                                                                                   
+VR1        LM1117IMP-3.3/NOPB TopLayer VREG_LM1117IMP-3.3/NOPB 6820.000      1715.000      90       "800-mA 15-V linear voltage regulator"                                                            
+U2         STM32F103C8T6      TopLayer QFP50P900X900X160-48N   5810.000      1565.000      0        "ARM® Cortex®-M3 STM32F1 Microcontroller IC 32-Bit 72MHz 64KB (64K x 8) FLASH 48-LQFP (7x7)"      
+U1         USBLC6-2SC6        TopLayer SOT95P280X145-6N        6490.000      1365.000      0        "17V Clamp 5A (8/20Aµs) Ipp Tvs Diode Surface Mount SOT-23-6"                                     
+R13        20                 TopLayer R_0603                  6095.000      1275.000      270      Resistor                                                                                          
+R12        20                 TopLayer R_0603                  6230.000      1275.000      270      Resistor                                                                                          
+R11        20                 TopLayer R_0603                  6165.000      1275.472      270      Resistor                                                                                          
+R10        220                TopLayer R_0603                  6085.000      1495.000      270      Resistor                                                                                          
+R9         22                 TopLayer R_0603                  5780.000      1300.000      180      Resistor                                                                                          
+R8         22                 TopLayer R_0603                  5670.472      1300.000      180      Resistor                                                                                          
+R7         10k                TopLayer R_0603                  6330.000      1510.472      90       Resistor                                                                                          
+R6         100k               TopLayer R_0603                  5820.000      1810.000      180      Resistor                                                                                          
+R5         100k               TopLayer R_0603                  5530.591      1350.000      180      Resistor                                                                                          
+R4         150                TopLayer R_0603                  6105.000      1725.472      90       Resistor                                                                                          
+R3         150                TopLayer R_0603                  6165.000      1725.472      90       Resistor                                                                                          
+R2         5.1k               TopLayer R_0603                  6620.000      1440.472      270      Resistor                                                                                          
+R1         5.1k               TopLayer R_0603                  6595.000      1210.000      90       Resistor                                                                                          
+D1         LTST-C235KGKRKT    TopLayer LED_LTST-C235KGKRKT     6305.000      1770.000      90       "Green, Red 571nm Green, 631nm Red LED Indication - Discrete 2V Green, 2V Red 1206 (3216 Metric)" 
+C9         10pF               TopLayer C_0603                  5400.000      1560.000      0        Capacitor                                                                                         
+C8         10pF               TopLayer C_0603                  5400.000      1635.000      0        Capacitor                                                                                         
+C7         100nF              TopLayer C_0603                  5534.528      1410.000      0        Capacitor                                                                                         
+C6         0.1uF              TopLayer C_0603                  6030.000      1760.000      270      Capacitor                                                                                         
+C5         0.1uF              TopLayer C_0603                  5899.528      1300.000      0        Capacitor                                                                                         
+C4         0.1uF              TopLayer C_0603                  5700.000      1810.000      0        Capacitor                                                                                         
+C3         0.1uF              TopLayer C_0603                  5534.528      1470.000      0        Capacitor                                                                                         
+C2         0.68uF             TopLayer C_0603                  6625.000      1795.472      90       Capacitor                                                                                         
+C1         100uF              TopLayer TANTAL_TYPE_D           6490.000      1705.000      270      "Tantal Capacitor"                                                                                
